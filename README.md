@@ -1,5 +1,6 @@
 # ☕️ Hola, soy Aurelio
-`Desarrollador Frontend en formación (React/JavaScript/UI)`<br/>
+![Banner de WalterAurelio](github_banner.jpg)<br/><br/>
+`Desarrollador Frontend en formación (React/JavaScript/Café)`<br/>
 
 Soy un desarrollador frontend y estudiante de informática. Me apasiona crear interfaces modernas y responsivas, desde la idea inicial hasta el producto final, cuidando tanto la estructura del código como la experiencia del usuario.<br/>
 
