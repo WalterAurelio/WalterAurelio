@@ -23,6 +23,11 @@ Actualmente estudio la Licenciatura en Informática en la UNAHUR, mientras desar
 
 ## 📊 Stats
 [![Aurelio's GitHub stats](https://github-readme-stats.vercel.app/api?username=WalterAurelio&show_icons=true&theme=tokyonight&locale=es&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WalterAurelio&layout=compact&theme=tokyonight&locale=es&hide_border=true)<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WalterAurelio&layout=compact&theme=tokyonight&locale=es&hide_border=true)
+
+## 📧 Contacto
+Podés contactarme o ver más de mí en:
+- Email: aureliogareca.dev@gmail.com
+- LinkedIn: [in/aurelio-gareca](https://linkedin.com/in/aurelio-gareca)<br/>
 
 ¡Gracias por visitar mi perfil!
