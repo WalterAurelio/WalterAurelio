@@ -1,9 +1,9 @@
 # ☕️ Hola, soy Aurelio
-`Desarrollador Frontend en formación (React / JavaScript / UI)`<br/>
+`Desarrollador Frontend en formación (React/JavaScript/UI)`<br/>
 
 Soy un desarrollador frontend y estudiante de informática. Me apasiona crear interfaces modernas y responsivas, desde la idea inicial hasta el producto final, cuidando tanto la estructura del código como la experiencia del usuario.<br/>
 
-Me gusta experimentar, aprender y compartir lo que hago a través de proyectos personales que reflejan mi crecimiento en el mundo del desarrollo web. Cada proyecto aquí es una oportunidad para aplicar lo aprendido y resolver problemas reales mediante el diseño y la programación. Trabajo con tecnologías como React, JavaScript, TypeScript y Tailwind CSS, buscando siempre soluciones limpias, sólidas y efectivas.<br/>
+Me gusta experimentar, aprender y compartir lo que hago a través de proyectos personales que reflejan mi crecimiento en el mundo del desarrollo web. Cada proyecto aquí es una oportunidad para aplicar lo aprendido y resolver problemas reales mediante el diseño y la programación.<br/>
 
 Actualmente estudio la Licenciatura en Informática en la UNAHUR, mientras desarrollo proyectos que me permiten aplicar y afianzar mis conocimientos.<br/>
 
