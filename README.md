@@ -1,5 +1,5 @@
 # ☕️ Hola, soy Aurelio
-`Desarrollador Frontend en formación (React/JavaScript/Café)`
+`Desarrollador Frontend (React/JavaScript/Café)`
 
 Soy un desarrollador frontend y estudiante de informática. Me apasiona crear interfaces modernas y responsivas, desde la idea inicial hasta el producto final, cuidando tanto la estructura del código como la experiencia del usuario.
 
